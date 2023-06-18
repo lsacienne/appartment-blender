@@ -13,6 +13,17 @@ During my semester I wrote a report to explain all the things I have done in the
 
 I rendered some images you can enjoy just here. Feel free to generate some other if you want to :
 
-| ![render-entrance](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-entree.png) | ![|render-table](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-table.png) |
-| ![render-totk](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-totk.png) | ![render-tv](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-tv.png) |
-| ![render-switch](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-switch.png) | ![render-frog](https://github.com/lsacienne/appartment-blender/blob/main/renders/render-frog.png) |
+<table>
+  <tr>
+    <td>![render-entrance](./renders/render-entree.png)</td>
+    <td>![|render-table](./renders/render-table.png)</td>
+  </tr>
+  <tr>
+    <td>![render-totk](./renders/render-totk.png)</td>
+    <td>![render-tv](./renders/render-tv.png)</td>
+  </tr>
+  <tr>
+    <td>![render-switch](./renders/render-switch.png)</td>
+    <td>![render-frog](./renders/render-frog.png)</td>
+  </tr>
+</table>
