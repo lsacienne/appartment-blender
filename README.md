@@ -15,15 +15,15 @@ I rendered some images you can enjoy just here. Feel free to generate some other
 
 <table>
   <tr>
-    <td>![render-entrance](./renders/render-entree.png)</td>
-    <td>![|render-table](./renders/render-table.png)</td>
+    <td><img src="./renders/render-entree.png"></td>
+    <td><img src="./renders/render-table.png"></td>
   </tr>
   <tr>
-    <td>![render-totk](./renders/render-totk.png)</td>
-    <td>![render-tv](./renders/render-tv.png)</td>
+    <td><img src="./renders/render-totk.png"></td>
+    <td><img src="./renders/render-tv.png"></td>
   </tr>
   <tr>
-    <td>![render-switch](./renders/render-switch.png)</td>
-    <td>![render-frog](./renders/render-frog.png)</td>
+    <td><img src="./renders/render-switch.png"></td>
+    <td><img src="./renders/render-frog.png"></td>
   </tr>
 </table>
