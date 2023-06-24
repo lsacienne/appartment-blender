@@ -10,7 +10,9 @@ A blender modelisation of my student appartment during my studies at UTBM (Belfo
 During my semester I wrote a report to explain all the things I have done in the project. It is only available in french just below :
 
 <p align="center">
-  [<kbd> <br>My report<br> </kbd>](./report/2023_MV52_Viala_Alexandre.pdf)
+  <kbd> 
+    <br><a href="./report/2023_MV52_Viala_Alexandre.pdf" download>My report</a><br>
+  </kbd>
 </p>
 
 
